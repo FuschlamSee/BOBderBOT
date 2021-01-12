@@ -1,2 +1,2 @@
-# Zeig
-Zeig hoit
+# Discord Bot
+
